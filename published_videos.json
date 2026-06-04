@@ -542,5 +542,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "Avatar Video(16)_subtitled.mp4",
+        "metadata": {
+            "title": "The Invisible Hand of Your Mind: How Priming Hijacks Choices (The Psychology Experiment That Feels Like Magic)",
+            "description": "Have you ever wondered why two people can stand in the same situation and make wildly different choices\u2014without realizing anything is influencing them? In this story-driven lesson, I\u2019ll take you into the world of **priming**\u2014where subtle cues from your environment can \u201cwake up\u201d certain thoughts and steer your behavior before you even notice. We\u2019ll break down classic priming research in a way you can feel: how flashing words or images (sometimes so fast you can\u2019t consciously identify them) can shape reaction times, preferences, and even what you perceive as \u201cnatural.\u201d Then we\u2019ll connect it to real life\u2014like why a stressful morning, a certain headline, or the tone of a conversation can quietly bias how you judge someone or decide what to do next. By the end, you\u2019ll see your brain not as a passive observer, but as an active prediction machine constantly interpreting signals and filling in the blanks\u2014sometimes in ways you didn\u2019t choose.",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
