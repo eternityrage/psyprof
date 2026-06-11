@@ -894,5 +894,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "Avatar_Video_001_subtitled.mp4",
+        "metadata": {
+            "title": "The Brain\u2019s Invisible Storyteller: How Cognitive Bias Turns \u201cWhat Happened\u201d Into \u201cWhat You Believe\u201d",
+            "description": "Have you ever noticed how two people can witness the same event and walk away with completely different \u201ctruths\u201d? In this short lesson, I\u2019ll guide you through the astonishing world of cognitive bias\u2014how your brain shortcuts information, fills in gaps, and constructs a ready-made story before you even realize it. We\u2019ll step into classic psychology experiments (like the mind\u2019s tendency to explain after the fact, and the powerful influence of how questions are framed) to see how small details can quietly steer perception, memory, and judgment. Imagine reading a headline, forming an opinion in seconds, and then remembering the event later as if your conclusion was inevitable\u2014that\u2019s your brain acting like an \u201cinvisible storyteller,\u201d and it\u2019s far more common (and more powerful) than most of us think. Like if this psychology fact blew your mind! Comment your thoughts on this concept! Share this with someone who loves learning! Follow Psychology Professor for daily mind-expanding lessons! #psychology #brain #neuroscience #mentalhealth #psychologyfacts #mindset #selfimprovement #learning #science #behavioralscience #education #personalgrowth #mindblown #cognitivebias #humanbehavior",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": false
+        }
     }
 ]
