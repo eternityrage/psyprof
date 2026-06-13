@@ -974,5 +974,21 @@
             },
             "recycled": false
         }
+    },
+    {
+        "video_name": "Avatar_Video_006_subtitled.mp4",
+        "metadata": {
+            "title": "Why Your Brain \u201cFills In the Blanks\u201d: The Psychology of Perception, Illusions, and Hidden Bias",
+            "description": "Have you ever looked at something and been 100% sure you saw it correctly\u2014only to realize your brain made up the rest? In this episode, I\u2019ll break down a core idea in psychology: perception isn\u2019t a perfect video feed, it\u2019s an intelligent guess. Your brain constantly predicts what should be there based on experience, attention, and expectations, and then it \u201cfills in\u201d missing information to create a smooth reality. That\u2019s why optical illusions can be so convincing and why cognitive biases can shape what you believe, remember, and even how you behave\u2014often without you noticing. Like if this psychology fact blew your mind! Comment your thoughts on this concept! Share this with someone who loves learning! Follow Psychology Professor for daily mind-expanding lessons!",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": false
+        }
     }
 ]
