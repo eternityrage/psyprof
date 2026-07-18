@@ -2654,5 +2654,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "Avatar_Video_093_subtitled.mp4",
+        "metadata": {
+            "title": "The Science of Love \u2014 What Happens in Your Brain",
+            "description": "Pavlov didn't just discover that dogs salivate when they hear a bell \u2014 he discovered one of the most fundamental principles of learning. Classical conditioning explains why you feel hungry when you smell your favorite restaurant, why certain songs trigger memories, and even why some phobias develop. Your brain constantly makes associations between stimuli without your awareness. This knowledge gives you power \u2014 you can intentionally create positive associations and break negative ones. Drop a bell emoji if you love learning about psychology! \ud83d\udd14 #psychology #classicalconditioning #pavlov #learning #brain #behaviorism #psychologyfacts #neuroscience #conditioning #mentalhealth",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
